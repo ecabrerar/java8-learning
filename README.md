@@ -2,12 +2,12 @@
 Learning what's new in Java SE 8. My learning path includes content from java tutorials, examples, books and workshops.
 
 
-# Resources
+## Resources
 
-## Books
+### Books
 * [Functional Programming in Java (Dr. Venkat Subramaniam)](https://pragprog.com/book/vsjava8/functional-programming-in-java)
 
-## Links
+### Links
 * [Introduction to New Features in Java 8](http://slidedeck.io/DDuarte/java8-slides)
 * [Lambda Expressions](http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 * [Java Lambda Expressions Basics](https://dzone.com/articles/java-lambda-expressions-basics)
