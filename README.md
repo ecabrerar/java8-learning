@@ -6,6 +6,8 @@ Learning what's new in Java SE 8. My learning path includes content from java tu
 
 ### Books
 * [Functional Programming in Java (Dr. Venkat Subramaniam)](https://pragprog.com/book/vsjava8/functional-programming-in-java)
+* [Introducing Java 8 (Raoul-Gabriel Urma)](http://www.oreilly.com/programming/free/introducing-java-8.csp)
+* [Object Oriented vs Functional Programming(Richard Warburton)](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp)
 
 ### Links
 * [Introduction to New Features in Java 8](http://slidedeck.io/DDuarte/java8-slides)
