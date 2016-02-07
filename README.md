@@ -8,17 +8,24 @@ Learning what's new in Java SE 8. My learning path includes content from java tu
 * [Functional Programming in Java (Dr. Venkat Subramaniam)](https://pragprog.com/book/vsjava8/functional-programming-in-java)
 * [Introducing Java 8 (Raoul-Gabriel Urma)](http://www.oreilly.com/programming/free/introducing-java-8.csp)
 * [Object Oriented vs Functional Programming(Richard Warburton)](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp)
+* [InfoQ eMag: Java 8](http://www.infoq.com/minibooks/emag-java-8)
+
+### Slides
+* [Introduction to New Features in Java 8](http://slidedeck.io/DDuarte/java8-slides)
 
 ### Links
-* [Introduction to New Features in Java 8](http://slidedeck.io/DDuarte/java8-slides)
+* [Introducing Java 8](https://www.oreilly.com/learning/introducing-java-8)
 * [Lambda Expressions](http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
 * [Java Lambda Expressions Basics](https://dzone.com/articles/java-lambda-expressions-basics)
 * [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/)
 * [Java™ Platform, Standard Edition 8 API Specification](http://docs.oracle.com/javase/8/docs/api/)
+* [Java 8 Lambdas - A Peek Under the Hood](http://www.infoq.com/articles/Java-8-Lambdas-A-Peek-Under-the-Hood)
+
+### Presentations
 * [Java 8 in Anger](http://www.infoq.com/presentations/java8-examples)
 * [Lambdas and Streams in Java 8](http://www.infoq.com/presentations/java-8-lambda-streams)
-* [Java 8 Lambdas - A Peek Under the Hood](http://www.infoq.com/articles/Java-8-Lambdas-A-Peek-Under-the-Hood)
-* [InfoQ eMag: Java 8](http://www.infoq.com/minibooks/emag-java-8)
+* [Object oriented and functional programming](https://www.oreilly.com/learning/object-oriented-and-functional-programming)
+* [5 Reasons Why You Can't do Stream Processing Without Knowing FP Well](http://2015.javazone.no/details.html?talk=8bf391299863534592e69fdab0127f8f3b3d52e6e9cdcee7c61019b3b368174b)
 
 #### Author
 
