@@ -26,6 +26,8 @@ Learning what's new in Java SE 8. My learning path includes content from java tu
 * [Lambdas and Streams in Java 8](http://www.infoq.com/presentations/java-8-lambda-streams)
 * [Object oriented and functional programming](https://www.oreilly.com/learning/object-oriented-and-functional-programming)
 * [5 Reasons Why You Can't do Stream Processing Without Knowing FP Well](http://2015.javazone.no/details.html?talk=8bf391299863534592e69fdab0127f8f3b3d52e6e9cdcee7c61019b3b368174b)
+* [Applying Java 8 Idioms to Existing Code](https://www.infoq.com/presentations/java8-lambda-streams)
+* [Transforming Code to Java 8](https://www.infoq.com/presentations/java-8-coding)
 
 #### Author
 
