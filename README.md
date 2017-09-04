@@ -20,6 +20,7 @@ Learning what's new in Java SE 8. My learning path includes content from java tu
 * [Java Platform Standard Edition 8 Documentation](http://docs.oracle.com/javase/8/docs/)
 * [Java™ Platform, Standard Edition 8 API Specification](http://docs.oracle.com/javase/8/docs/api/)
 * [Java 8 Lambdas - A Peek Under the Hood](http://www.infoq.com/articles/Java-8-Lambdas-A-Peek-Under-the-Hood)
+* [Java 8 Tutorial by Benjamin Winterberg](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 
 ### Presentations
 * [Java 8 in Anger](http://www.infoq.com/presentations/java8-examples)
